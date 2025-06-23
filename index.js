@@ -5,7 +5,7 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 const MistralClient = require('@mistralai/mistralai'); 
  
 // --- 2. CONFIGURACIÓN INICIAL --- 
-const ID_DE_TU_GOOGLE_SHEET = '1jjROnAY1TobjiDYwjHv8YD2i-D_LlwTtw79XZ1i-1Oo'; // Sacado de la URL de tu Google Sheet 
+const ID_DE_TU_GOOGLE_SHEET = '1jhRS6X7EPfZLV6BZwi_nWxEEyUgbIty85psDwcIlRxA'; // Sacado de la URL de tu Google Sheet 
  
 // Parsea las credenciales de Google desde la variable de entorno que configuraremos en Koyeb 
 // ¡Esto es mucho más seguro que tener el archivo en el servidor! 
